@@ -1,0 +1,1 @@
+--insert into Employee(id,name,age,email) values (10001L,'vishal',23,'avc@gmail.com');
